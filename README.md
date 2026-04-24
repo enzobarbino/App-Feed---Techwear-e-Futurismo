@@ -1,0 +1,1 @@
+  O design é totalmente baseado estilo Techwear Futurista (de acordo com o tema exigido), sendo a principal inspiração a moda Techwear que possui seu estilo baseado no preto e branco. Os botões, input e cards tiveram uma leve transparencia para mostrar o fundo do site, segmentos de Anéis Concêntricos girando em sentido anti-horário.
